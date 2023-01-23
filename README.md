@@ -26,7 +26,7 @@ This app was designed to allow people from all over the world to join in the fun
 ![production version login](src/assets/images/SSlogin.png)
 ![production version register](/src/assets/images/SSregister.png)
 ![production version create](/src/assets/images/SScreate.png)
-![production version join](/src/assets/images/SSJoinGame.png)
+
 
 ## Getting Started
 
