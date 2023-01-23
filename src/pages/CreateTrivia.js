@@ -5,7 +5,7 @@ function CreateTrivia() {
 const [arr, setArr] = useState([])
 const addTrivia = (e) => {
   e.preventDefault()
-  fetch("https://peanutgallery.herokuapp.com//c/trivia", {
+  fetch("https://peanutgallery.herokuapp.com/c/trivia", {
   method: 'POST',
   headers: {
     'Content-type': 'application/json; charset=UTF-8'

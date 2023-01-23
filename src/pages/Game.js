@@ -1,9 +1,14 @@
+<<<<<<< Updated upstream
 import Header from "../components/Header";
+=======
+// // import Header from "../components/Header";
+>>>>>>> Stashed changes
 // import StartGame from "../components/StartGame";
 // // import HostDisplay from "../components/HostDisplay";
 // // import PlayerDisplay from "../components/PlayerDisplay";
 // import { useState } from "react";
 // import socketIO from 'socket.io-client';
+<<<<<<< Updated upstream
 import JoinGame from '../components/JoinGame';
 
 // const socket = socketIO.connect('https://peanutgallery.herokuapp.com/');
@@ -24,6 +29,19 @@ const Game = () => {
         </>
     )
 }
+=======
+// import JoinGame from '../components/JoinGame';
+
+// const socket = socketIO.connect('http://localhost:4000');
+// socket.on('user connect', (message) =>{
+//     console.log('connected');
+// })
+
+// const Game = () => {
+//     return (isLoggedIn ? <StartGame /> : <JoinGame />
+//     )
+// }
+>>>>>>> Stashed changes
 
 // const getStatus = async () => {
 //     const SERVER_URL = fetch("api_url", {
@@ -56,5 +74,9 @@ const Game = () => {
 //     //     return <HostDisplay />
 //     // }
 
+<<<<<<< Updated upstream
 export default Game;
+=======
+// export default Game;
+>>>>>>> Stashed changes
 
