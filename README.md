@@ -22,7 +22,6 @@ This app was designed to allow people from all over the world to join in the fun
 
 ![wireframe](/src/assets/images/SSWF1.png)
 ![wireframe](/src/assets/images/SSWF2.png)
-![production version home](/src/assets/images/SShowto.png.png)
 ![production version login](src/assets/images/SSlogin.png)
 ![production version register](/src/assets/images/SSregister.png)
 ![production version create](/src/assets/images/SScreate.png)
